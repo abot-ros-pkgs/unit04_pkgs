@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>unit04_pkgs</name>
+  <version>0.0.0</version>
+  <description>The unit04_pkgs package</description>
+
+  <maintainer email="groadpg@gmail.com">Ryodo Tanaka</maintainer>
+  <author email="groadpg@gmail.com">Ryodo Tanaka</author>
+  
+  <license>Appache2.0</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>unit04_description</exec_depend>
+  
+  <export>
+    <metapackage/>
+  </export>
+  
+</package>
